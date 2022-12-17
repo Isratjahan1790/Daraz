@@ -5,3 +5,5 @@
 ### 🔭 In the "U_Hover" file I have include:
 ![daraz3](https://user-images.githubusercontent.com/112747904/208240664-4122f354-da54-41d8-a089-a88f09293b80.png)
 
+## My Activity:
+![snake gif](https://github.com/Isratjahan1790/Isratjahan1790/blob/output/github-contribution-grid-snake.gif)
